@@ -257,8 +257,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
-  jekyll-feed
-  jekyll-seo-tag
+  jekyll-github-metadata
 
 RUBY VERSION
    ruby 2.7.2p137
